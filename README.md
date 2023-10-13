@@ -4,7 +4,7 @@ Hello and welcome to my GitHub! I'm delighted to introduce you to the **Global L
 
 ## Introduction
 
-The world is home to countless lakes, each with its unique ecological and geographical characteristics. Recognizing the need for a comprehensive dataset that captures this diversity, I've curated the GLV Dataset. Sourced from the extensive array of satellite and aerial imagery on Google Earth, this dataset boasts 1,120 RGB images, each with a high native resolution of 1200 × 1200 pixels. 
+The world is home to countless lakes, each with its unique ecological and geographical characteristics. Recognizing the need for a comprehensive dataset that captures this diversity, I've curated the GLV Dataset. Sourced from the extensive array of satellite images on Google Earth, this dataset boasts 1,120 RGB images, each with a high native resolution of 1200 × 1200 pixels. Spanning all seven continents, it ensures a broad representation of terrains.
 
 What sets the GLV Dataset apart is its emphasis on:
 
